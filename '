@@ -1,0 +1,7 @@
+// Modules
+const names = require("./4-firstModule.js");
+const greet = require("./5-utils.js");
+console.log(names);
+greet("susan");
+greet(john);
+greet(peter);
