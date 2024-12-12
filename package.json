@@ -1,0 +1,23 @@
+{
+  "name": "backend_node",
+  "version": "1.0.0",
+  "description": "Learning Node",
+  "main": "1-intro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mubashir-73/Backend_Node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mubashir-73/Backend_Node/issues"
+  },
+  "homepage": "https://github.com/mubashir-73/Backend_Node#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "lodash": "^4.17.21"
+  }
+}
